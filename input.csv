@@ -1,0 +1,29 @@
+name,age,email,city,signup_date
+Fiona  Clark,27,fiona@example.com,San Diego,2022-12-12
+Zachary Rogers,37,zachary@example.com,Louisville,
+ Alice Brown,22,alice@example.com,Houston,2023-03-10
+Kevin Baker,38, kevin@example.com ,Columbus,2022-10-19
+bob johnson,45,bobjohnson@example.com  , Chicago,2021-07-22
+Tina Parker,27,tina@example,Detroit,2022-11-30
+    John Doe,25,john@example.com,New York,2023-01-15
+Yvonne Morris,31,yvonne@example.com,Las Vegas,2022-04-14
+Charlie Davis, ,charlie@example.com,phoenix   ,2022-05-18
+Diana    Evans,29,DIANA@EXAMPLE.COM,   Philadelphia,2023-02-01
+Oscar Perez,36,oscar@example.com,Seattle,
+Ulysses Edwards,44,ulysses@example.com,Nashville,2021-08-08
+Jane Smith,30,   jane@example.com,Los angeles,2022-11-03
+Xavier Sanchez,,xavier@example.com,Oklahoma City,2023-02-25
+Steven Campbell, ,steven@example.com,El paso,2023-03-22
+Rachel Phillips,34,rachel@example.com,Boston,2022-09-09
+Ian Wright,40,ian@example,Jacksonville,2021-06-25
+Paula Roberts,29,paula@example.com,Denver,2023-06-01
+Walter Stewart,39 ,walter@example.com,Portland,2022-06-16
+Hannah King,28,hannah@example.com,San Jose,2022-08-14
+Michael Green,50,michael@example.com,San Francisco,
+Quentin Turner,    ,quentin@example.com,washington,2021-12-21
+Laura Scott,26,laura@example.com,Charlotte,2023-02-28
+Ethan Wilson,35,ethanwilson.com,san antonio,2021-09-09
+Victoria     Collins,32,    victoria@example.com,Memphis,2023-01-12
+Nina Carter,24,nina@example.com,indianapolis,2023-05-11
+George Hall,31,george@example.com,Dallas,2023-01-30
+Julia Adams,33,julia@example.com,Fort Worth,2023-04-05
