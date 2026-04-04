@@ -1,2 +1,2 @@
 # data-normalization-python
-A program that reads data from an unsorted and unformatted CSV file and outputs a porperly sorted and formatted CSV file.
+This is a very simple command-line-based program that will read unsorted and unformatted data from a CSV file about a list of people (some with missing information). It will fill in missing information with a placeholder, appropriately format all data, and sort the data in ascending order according to a user-defined attributed (e.g., name, location, date, age). The resulting data will be written to a new CSV file.
